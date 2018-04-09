@@ -1,0 +1,8 @@
+2018-04-08 20:52:02 INFO  MyLibrary:126 - Initial State of Demo Library ==> 4 Available Books 4 Members.
+2018-04-08 20:52:02 INFO  MyLibrary:53 - Book 'Java Revisited' issued by John
+2018-04-08 20:52:02 INFO  MyLibrary:53 - Book 'Intro to Python' issued by Michael
+2018-04-08 20:52:02 INFO  MyLibrary:66 - Book 'Java Revisited' returned by John
+2018-04-08 20:52:02 INFO  MyLibrary:53 - Book 'Sample Book' issued by Christine
+2018-04-08 20:52:02 INFO  MyLibrary:53 - Book 'CTCI' issued by Ben
+2018-04-08 20:52:02 INFO  MyLibrary:66 - Book 'Sample Book' returned by Christine
+2018-04-08 20:52:02 INFO  MyLibrary:136 - Final State of Demo Library ==> 2 Available Books 4 Members.
